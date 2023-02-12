@@ -49,6 +49,8 @@ class PasswordManagerUpdated(PasswordManager):     #inheriting PasswordManager c
         self.set_password(random_password)                                    # sets it as password if eligible
         return random_password                                                # returns the random password 
 
+# Testing functionality below
+
 past_passwords = PasswordManagerUpdated(past_passwords)
 
 past_passwords.old_passwords
