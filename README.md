@@ -8,3 +8,5 @@ If you would just like to see some highlights so far, look at the following:
 "TED_Talks JSON Analysis.py"
 
 "SMS Store Manager.py"
+
+Currently, I am working on an independet data project to model player success and to predict tournament outcomes based on past tennis matches, where I will be querying from thousands of data points, including match scores, player rankings, and player statistics.
